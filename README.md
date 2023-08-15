@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2023 Anthony Accioly
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-# Unleashing Creativity with ChatGPT for Slide Creation or "Old Man Yells at ChatGPT"
+# Unleashing Creativity with ChatGPT for Slide Creation (or "Old Man Yells at ChatGPT")
 
 Slides for the Aspiring Speakers Lightning Talks Event @ 2023-08-15
 
