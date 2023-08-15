@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: old-man-yells-at-chatgpt
+Upstream-Contact: Anthony Accioly
+Source: github.com/aaccioly-demos/old-man-yells-at-chatgpt
+
+Files: *
+Copyright: 2023 Anthony Accioly
+License: CC-BY-SA-4.0
